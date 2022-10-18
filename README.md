@@ -1,3 +1,5 @@
+![Profile banner](https://i.imgur.com/YoSH62q.png)
+
 # Introduction
 Hi, I am Mohammad Arafat Zaman! <br/>
 
