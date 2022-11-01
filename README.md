@@ -13,4 +13,4 @@ I am constantly seeking opportunities to expand my horizon in order to **not onl
 ---
 # Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=M-ArafatZaman&theme=black-ice&border_radius=5)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=M-ArafatZaman&theme=github-dark-blue&hide_border=true&border_radius=5)](https://git.io/streak-stats)
