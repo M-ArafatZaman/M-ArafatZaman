@@ -23,3 +23,11 @@ I am constantly seeking opportunities to expand my horizon in order to **not onl
   </a>
 </div>
 
+<div width="100%" align="center">
+  <a align="left" href="https://git.io/streak-stats" target="_blank">
+    <img width="49%" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-ArafatZaman&theme=github_dark&layout=compact&hide_border=true" />
+  </a>
+  
+  
+</div>
+
